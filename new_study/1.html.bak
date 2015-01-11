@@ -1,0 +1,200 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+
+<style>
+img {
+border: none;
+}
+
+.userdefined-153704 .j-module {
+zoom: 1;
+overflow: hidden;
+}
+
+html, body, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, ul, li, fieldset, form, input, textarea, label, legend, table, caption, tbody, tfoot, thead, tr, th, tdinput, a, img {
+margin: 0;
+padding: 0;
+border: none;
+outline: 0;
+}
+
+
+img, div, span, ul, li, a, p {
+margin: 0;
+padding: 0;
+}
+
+ul {
+list-style: none;
+}
+li {
+list-style-type: none;
+}
+.goods-list li{
+float:left;
+margin:5px;
+}
+.w990{
+argin-top: 10px;
+overflow: hidden;
+clear: both;
+width: 990px;
+margin: 0 auto;
+}
+.goods_area {background: #e5080f  repeat; margin-top:150px;}
+.goods-wrap {margin-bottom:10px;}
+.goods-list ul {margin-bottom: 4px;overflow: hidden;}
+</style>
+
+
+
+</head>
+<body>
+
+
+
+<div class="goods_area">
+
+<div class="googs_1">
+
+
+<div class=" userdefined-153704" instanceid="6045028" style="margin-bottom:0px;" module-name="UserDefine">
+        <div class="j-module" module-function="autoCenter" module-param="{}">
+                <div class="userDefinedArea" style="width:1920px;">
+                        <img src="img/54af4d7aN5b4a7755.jpg" height="184" width="1920">
+                </div>
+        </div>
+</div>
+<div class=" userdefined-153704" instanceid="6045028" style="margin-bottom:0px;" module-name="UserDefine">
+        <div class="j-module" module-function="autoCenter" module-param="{}">
+                <div class="userDefinedArea" style="width:1920px;">     <!-- 宽度单位没有PX，IE不正常 -->
+                        <img src="img/54af4156Nd25e9c19.jpg">
+                </div>
+        </div>
+</div>
+
+<div class=" userdefined-153704" instanceid="6045028" style="margin-bottom:0px;" module-name="UserDefine">
+        <div class="j-module" module-function="autoCenter" module-param="{}">
+                <div class="userDefinedArea" style="width:1920;">
+                        <img src="img/54af4d84N38490e54.jpg">
+                </div>
+        </div>
+</div>
+
+<div class=" userdefined-153704" instanceid="6045028" style="margin-bottom:0px;" module-name="UserDefine">
+        <div class="j-module" module-function="autoCenter" module-param="{}">
+                <div class="userDefinedArea" style="width:1920;">
+                        <img src="img/54af440eN35fe0f5e.jpg">
+                </div>
+        </div>
+</div>
+</div>
+
+
+
+<div style="background: #e5080f  repeat;" class="w990">
+
+<div class=" userdefined-153704" instanceid="6045028" style="margin-bottom:0px;" module-name="UserDefine">
+        <div class="j-module" module-function="autoCenter" module-param="{}"> <!-- j-module这个class要有 -->
+                <div class="userDefinedArea" style="width:990;"><!-- 宽度一定要定义 -->
+                        <img src="img/54af420cNf9101214.jpg">
+                </div>
+        </div>
+</div>
+
+
+
+
+<div class="goods-wrap">
+        <div class="goods-list">
+                <ul>
+                        <li>
+                                <a>
+                                        <img src="img/54a8ab50N95d2d247.jpg">
+                                </a>
+                        </li>
+                        <li>
+                                <a>
+                                        <img src="img/54a8da05N5c3212d6.jpg">
+                                </a>
+                        </li>
+                        <li>
+                                <a>
+                                        <img src="img/54a8f9dcN3fca5aff.jpg">
+                                </a>
+                        </li>
+                        <li>
+                                <a>
+                                        <img src="img/54a8ab50N95d2d247.jpg">
+                                </a>
+                        </li>
+
+                </ul>
+        </div>
+</div>
+
+<div class="goods-wrap">
+        <div class="goods-list">
+                <ul>
+                        <li>
+                                <a>
+                                        <img src="img/54a8ab50N95d2d247.jpg">
+                                </a>
+                        </li>
+                        <li>
+                                <a>
+                                        <img src="img/54a8da05N5c3212d6.jpg">
+                                </a>
+                        </li>
+                        <li>
+                                <a>
+                                        <img src="img/54a8f9dcN3fca5aff.jpg">
+                                </a>
+                        </li>
+                        <li>
+                                <a>
+                                        <img src="img/54a8ab50N95d2d247.jpg">
+                                </a>
+                        </li>
+
+                </ul>
+        </div>
+</div>
+
+<div class="layoutarea">
+     <div class="layout">
+	<div class="layout_one w990 "></div>
+     </div>
+</div>
+
+
+
+
+
+
+<div class=" userdefined-153704" instanceid="6045028" style="margin-bottom:0px;" module-name="UserDefine">
+        <div class="j-module" module-function="autoCenter" module-param="{}">
+                <div class="userDefinedArea" style="width:990;">
+                        <img src="img/54aa675aNb10812a0.jpg">
+                </div>
+        </div>
+</div>
+
+
+
+</div>
+
+</div>
+
+<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+<!-- <script type="text/javascript" src="js/jquery-1.11.2.min.js"></script> -->
+<script type="text/javascript" src="js/jd_userDefine.js"></script>
+
+<!-- <script type="text/javascript" src="js/base.js"></script> -->
+<!-- <script type="text/javascript" src="js/lib-v1.js"></script> -->
+<!-- <script type="text/javascript" src="js/jd2.js"></script>
+<script type="text/javascript" src="js/jd1.js"></script>
+<script type="text/javascript" src="js/jd3.js"></script> -->
+</body>
+</html>
